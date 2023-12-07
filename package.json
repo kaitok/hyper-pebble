@@ -1,8 +1,17 @@
 {
   "name": "hyper-pebble",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "author": "kaitok",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "terminal",
+    "material",
+    "term",
+    "theme",
+    "hyperterm"
+  ]
 }
